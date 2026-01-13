@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wovely Privacy Policy
+title: Wovely
 description: Privacy-focused knitting app with local data storage
 img: assets/img/wovely-icon.png
 importance: 2
-category: apps
+category: work
 giscus_comments: false
 ---
 
