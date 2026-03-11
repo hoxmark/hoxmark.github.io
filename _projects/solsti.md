@@ -78,5 +78,7 @@ For point-to-point routes uses A* with a provably-admissible Haversine heuristic
 
 ---
 
+**Personvern**: [Les personvernerklæring](/solsti-privacy)
+
 **Platform**: iOS (iPhone)  
 **Status**: In Development
