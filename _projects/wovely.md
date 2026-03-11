@@ -2,7 +2,7 @@
 layout: page
 title: Wovely
 description: Privacy-focused knitting app with local data storage
-img: assets/img/wovely-icon.png
+img: assets/img/Wovely_logo.png
 importance: 2
 category: work
 giscus_comments: false

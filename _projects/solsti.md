@@ -2,7 +2,7 @@
 layout: page
 title: Solsti
 description: Sun-optimized walking route planner for iOS
-img: assets/img/solsti-icon.png
+img: assets/img/solsti-icons-project-iOS-Default-1024x1024@1x.png
 importance: 1
 category: work
 giscus_comments: false
