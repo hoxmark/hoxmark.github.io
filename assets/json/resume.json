@@ -5,7 +5,7 @@
     "image": "",
     "email": "bhoxmark@gmail.com",
     "phone": "",
-    "url": "www.linkedin.com/in/bhoxmark",
+    "url": "https://www.linkedin.com/in/bhoxmark",
     "summary": "I'm a curious Data Scientist currently working with machine learning and recommender systems at FINN.no, focusing on leveraging NLP in our job matching engine. My background includes software development and a MSc from NTNU. I have a strong passion for Computers and Technology and continually seek to learn new things.",
     "location": {
       "city": "Oslo",
@@ -16,7 +16,7 @@
       {
         "network": "GitHub",
         "username": "hoxmark",
-        "url": "github.com/hoxmark"
+        "url": "https://github.com/hoxmark"
       }
     ]
   },
